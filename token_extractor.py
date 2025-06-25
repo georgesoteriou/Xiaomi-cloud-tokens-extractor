@@ -254,7 +254,7 @@ def print_entry(key, value, tab):
 
 
 def main():
-    servers = ["cn", "de", "us", "ru", "tw", "sg", "in", "i2"]
+    servers = ["cn", "de", "us", "ru", "tw", "sg", "in", "i2", "ch"]
     servers_str = ", ".join(servers)
     print("Username (email or user ID):")
     username = input()
